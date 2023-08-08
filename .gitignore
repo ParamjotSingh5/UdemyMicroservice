@@ -1,0 +1,9 @@
+﻿limit-service/.gradle
+limit-service/.idea
+limit-service/build
+limit-service/gradle
+spring-cloud-config-server/.gradle
+spring-cloud-config-server/.idea
+spring-cloud-config-server/gradle
+spring-cloud-config-server/build
+*.md
